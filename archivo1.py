@@ -1,3 +1,3 @@
-print(primera linea)
-print(segunda linea)
-print(tercera linea)
+print("primera linea")
+print("segunda linea")
+print("tercera linea")
